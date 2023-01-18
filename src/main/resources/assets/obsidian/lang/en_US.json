@@ -1,0 +1,11 @@
+{
+  "itemGroup.obsidian.obsidian_group": "Obsidian Mod",
+  "item.obsidian.obsidian_item": "Obsidian Item",
+  "item.obsidian.obsidian_item.tooltip": "This is yours.",
+  "item.obsidian.obsidian_item.tooltip2": "This is tooltip 2. I should be red.",
+  "item.obsidian.obsidian_ingot": "Obsidian Ingot",
+  "item.obsidian.obsidian_helmet": "Obsidian Helmet",
+  "item.obsidian.obsidian_chestplate": "Obsidian Chestplate",
+  "item.obsidian.obsidian_leggings": "Obsidian Leggings",
+  "item.obsidian.obsidian_boots": "Obsidian Boots"
+}

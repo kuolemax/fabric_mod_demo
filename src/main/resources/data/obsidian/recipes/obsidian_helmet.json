@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "I I",
+    "   "
+  ],
+  "key": {
+    "I": {
+      "item": "obsidian:obsidian_ingot"
+    }
+  },
+  "result": {
+    "item": "obsidian:obsidian_helmet",
+    "count": 1
+  }
+}
